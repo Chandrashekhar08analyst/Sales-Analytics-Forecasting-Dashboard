@@ -1,6 +1,9 @@
 # Sales Analysis 💹 and Forecasting 🔮 with Power BI
 
 ## Objective
+
+![Uploading Sales Analysis & Forecasting Mine Pic.jpg…]()
+
 This project is designed to leverage **data analysis techniques** and **time series forecasting** in **Power BI** to provide actionable insights and strategic recommendations for business growth. The interactive dashboard helps businesses track performance, understand customer behavior, and optimize sales strategies.
 
 ## Project Overview
