@@ -1,4 +1,4 @@
-![Fin](https://github.com/user-attachments/assets/d03f1ce1-af88-44e6-80bd-aca1b24d259e)# Sales Analysis 💹 and Forecasting 🔮 with Power BI
+# Sales Analysis 💹 and Forecasting 🔮 with Power BI
 
 ## Objective
 
@@ -69,5 +69,4 @@ This project demonstrates proficiency in **Power BI**, **DAX**, and **time serie
 - **DAX (Data Analysis Expressions)**: Custom calculations and data manipulation.
 - **Time Series Analysis and Forecasting**: Predictive analytics using historical sales data.
 
-[![Description](![Fin](https://github.com/user-attachments/assets/681204be-68bb-4210-9c01-8e84ffb3bd73)
-)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Description](![Fin](https://github.com/user-attachments/assets/d03f1ce1-af88-44e6-80bd-aca1b24d259e))](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
