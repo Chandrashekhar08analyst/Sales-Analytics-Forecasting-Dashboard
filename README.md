@@ -57,7 +57,7 @@ To increase sales in the next year, the business should focus on:
 2. **Expanding Online Payment Options**: With 35% of customers opting for online payments, improving online payment methods and providing incentives (e.g., discounts for digital transactions) could boost sales.
 3. **Targeted Promotions in High-Sales Regions**: The **West** region has the highest sales. Implementing region-specific promotions or loyalty programs can maximize sales in this high-performing area.
 
-## Conclusion:
+## 🟢 Conclusion:
 This project demonstrates proficiency in **Power BI**, **DAX**, and **time series forecasting**. It delivers valuable insights into sales trends, customer behavior, and sales forecasting, helping businesses make informed decisions. The final suggestion provides actionable strategies for increasing sales in the coming year.
 
 ## Technology Used:
