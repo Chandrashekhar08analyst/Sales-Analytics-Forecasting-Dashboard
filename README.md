@@ -68,5 +68,3 @@ This project demonstrates proficiency in **Power BI**, **DAX**, and **time serie
 - **Power BI**: Data visualization, reporting, and interactive dashboard creation.
 - **DAX (Data Analysis Expressions)**: Custom calculations and data manipulation.
 - **Time Series Analysis and Forecasting**: Predictive analytics using historical sales data.
-
-[![Description](![Fin](https://github.com/user-attachments/assets/d03f1ce1-af88-44e6-80bd-aca1b24d259e))](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
