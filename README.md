@@ -28,6 +28,9 @@ The project analyzes sales data to create a comprehensive and interactive dashbo
    - **KPIs**: Presented key metrics including total sales, total quantity sold, and total profit.
 
 3. **DAX Calculations**:
+
+   ![Screenshot 2025-01-03 120025](https://github.com/user-attachments/assets/2982f18f-2161-46c5-8c9f-fb9445b61ed2)
+
    - Created a custom column for **average delivery days** using `DATEDIFF` to calculate the time between order date and shipping date.
    - Built a **DAX table** to support sales forecasting.
 
