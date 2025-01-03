@@ -11,6 +11,9 @@ The project analyzes sales data to create a comprehensive and interactive dashbo
 
 ## Steps Involved:
 1. **Data Import and Cleaning**:
+
+    ![Screenshot 2025-01-03 120503](https://github.com/user-attachments/assets/52a72ed7-2093-4404-bad6-981d22698b4d)
+
    - Imported sales data from a CSV file.
    - Cleaned and processed the data: handled null values, replaced incorrect values, and adjusted data types to ensure accurate analysis.
 
