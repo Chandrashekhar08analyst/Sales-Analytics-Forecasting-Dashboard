@@ -15,6 +15,11 @@ The project analyzes sales data to create a comprehensive and interactive dashbo
    - Cleaned and processed the data: handled null values, replaced incorrect values, and adjusted data types to ensure accurate analysis.
 
 2. **Dashboard Creation**:
+
+   ![Screenshot 2025-01-03 115606](https://github.com/user-attachments/assets/d112005a-a9c2-4817-9f9f-d5504acd6701)
+
+   
+
    - **Bar Charts**: Visualized sales by category, subcategory, and shipping mode.
    - **Area Charts**: Compared monthly sales and profit trends across two years.
    - **Map Chart**: Displayed sales by state, using bubble size to represent sales volume and tooltips for profit.
@@ -27,6 +32,9 @@ The project analyzes sales data to create a comprehensive and interactive dashbo
    - Built a **DAX table** to support sales forecasting.
 
 4. **Sales Forecasting**:
+
+   ![Screenshot 2025-01-03 115642](https://github.com/user-attachments/assets/4d553c16-5d9a-4ade-80b9-7034284f3655)
+
    - Implemented **15-day sales forecasting** using time series analysis, leveraging historical data to predict future sales trends.
 
 ## Key Insights:
